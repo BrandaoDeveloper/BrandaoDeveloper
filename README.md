@@ -1,2 +1,30 @@
-# Leonardo-Brandao
-presentation
+<h1><strong> Hi there, I'm Leonardo!</strong> </h1>
+<p>A little about me:
+
+Nice to meet you, I'm Leonardo Brandão, I'm 21 years old and I currently work in the corporate environment, and I have a lot of knowledge of the logistics and supply chain sector.
+
+I recently graduated (2022) in Logistics Management, with the aim of learning more about the area, in addition to combining my professional experience with theoretical content.
+
+However, I am in a career transition and I am studying to qualify and thus be competent when the opportunity arises. Precisely, in the segment of WEB Development.
+
+<p><strong>➔ Studying: HTML | CSS | JavaScript </strong>
+
+<p><strong>➔ Soft Skills:
+<ul>
+    <li>Communication</li>
+    <li>Team work</li>
+    <li>Leadership skill</li>
+    <li>Analytical reasoning for problem solving</li>
+    <li>Perseverance</li>
+    <li>Determination</li>
+    <li>Ability to adapt and innovate</li>
+</ul>
+
+
+<h2><strong>Contact</strong></h2>
+<div>  
+     
+<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BikKlinSmSN2jtj%2FCwMj%2FEg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &ensp;<a href = "mailto:brandao.developerweb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>   &ensp;<a href="https://www.instagram.com/brandao_dev/" target="_blank"><img src="https://portal.ifba.edu.br/simoes-filho/imagens/redes-sociais/instagram.png/@@images/0f1ec04e-2ba4-4dd8-970f-0e3c47d5d0a7.png" height="29" width="130"></a>
+  
+  
+</div>
