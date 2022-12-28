@@ -7,7 +7,13 @@ I recently graduated (2022) in Logistics Management, with the aim of learning mo
 
 However, I am in a career transition and I am studying to qualify and thus be competent when the opportunity arises. Precisely, in the segment of WEB Development.
 
+<div>
 <p><strong>➔ Studying: HTML | CSS | JavaScript </strong>
+  <br><img align="center" alt="Rafa-HTML" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rafa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
 
 <p><strong>➔ Soft Skills:
 <ul>
