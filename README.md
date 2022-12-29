@@ -9,9 +9,9 @@ However, I am in a career transition and I am studying to qualify and thus be co
 
 <div>
  <p><strong>➔ Studying: HTML | CSS | JavaScript </strong>
-  <br><img align="center" alt="Rafa-HTML" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <br><img align="center" alt="Leo-HTML" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Leo-CSS" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Leo-JS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 <p><strong>➔ Soft Skills:
@@ -25,7 +25,6 @@ However, I am in a career transition and I am studying to qualify and thus be co
     <li>Ability to adapt and innovate</li>
 </ul>
 
-
 <h2><strong>Contact</strong></h2>
     <div>      
         <span>
@@ -34,5 +33,5 @@ However, I am in a career transition and I am studying to qualify and thus be co
             <a href = "mailto:brandao.developerweb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>   &ensp;</span>
         <span>
             <a href="https://www.instagram.com/brandao_dev/" target="_blank"><img src="https://portal.ifba.edu.br/simoes-filho/imagens/redes-sociais/instagram.png/@@images/0f1ec04e-2ba4-4dd8-970f-0e3c47d5d0a7.png" height="29" width="130"></a>
-        </span>
+        </span>    
 </div>
