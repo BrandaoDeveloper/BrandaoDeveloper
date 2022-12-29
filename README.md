@@ -5,7 +5,7 @@ Nice to meet you, I'm Leonardo Brandão, I'm 21 years old and I currently work i
 
 I recently graduated (2022) in Logistics Management, with the aim of learning more about the area, in addition to combining my professional experience with theoretical content.
 
-However, I am in a career transition and I am studying to qualify and thus be competent when the opportunity arises. Precisely, in the segment of WEB Development.
+However, I am in a career transition and I am studying to qualify and thus be competent when the opportunity arises. Precisely, in the segment of WEB Development.</p>
 
 <div>
  <p><strong>➔ Studying: HTML | CSS | JavaScript </strong>
@@ -13,7 +13,6 @@ However, I am in a career transition and I am studying to qualify and thus be co
   <img align="center" alt="Rafa-CSS" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-
 
 <p><strong>➔ Soft Skills:
 <ul>
@@ -36,5 +35,4 @@ However, I am in a career transition and I am studying to qualify and thus be co
         <span>
             <a href="https://www.instagram.com/brandao_dev/" target="_blank"><img src="https://portal.ifba.edu.br/simoes-filho/imagens/redes-sociais/instagram.png/@@images/0f1ec04e-2ba4-4dd8-970f-0e3c47d5d0a7.png" height="29" width="130"></a>
         </span>
-       
 </div>
