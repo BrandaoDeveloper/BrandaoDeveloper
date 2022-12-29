@@ -8,7 +8,7 @@ I recently graduated (2022) in Logistics Management, with the aim of learning mo
 However, I am in a career transition and I am studying to qualify and thus be competent when the opportunity arises. Precisely, in the segment of WEB Development.
 
 <div>
-<p><strong>➔ Studying: HTML | CSS | JavaScript </strong>
+ <p><strong>➔ Studying: HTML | CSS | JavaScript </strong>
   <br><img align="center" alt="Rafa-HTML" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="90" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,9 +28,13 @@ However, I am in a career transition and I am studying to qualify and thus be co
 
 
 <h2><strong>Contact</strong></h2>
-<div>  
-     
-<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BikKlinSmSN2jtj%2FCwMj%2FEg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &ensp;<a href = "mailto:brandao.developerweb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>   &ensp;<a href="https://www.instagram.com/brandao_dev/" target="_blank"><img src="https://portal.ifba.edu.br/simoes-filho/imagens/redes-sociais/instagram.png/@@images/0f1ec04e-2ba4-4dd8-970f-0e3c47d5d0a7.png" height="29" width="130"></a>
-  
-  
+    <div>      
+        <span>
+            <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BikKlinSmSN2jtj%2FCwMj%2FEg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &ensp;</span>
+        <span>
+            <a href = "mailto:brandao.developerweb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>   &ensp;</span>
+        <span>
+            <a href="https://www.instagram.com/brandao_dev/" target="_blank"><img src="https://portal.ifba.edu.br/simoes-filho/imagens/redes-sociais/instagram.png/@@images/0f1ec04e-2ba4-4dd8-970f-0e3c47d5d0a7.png" height="29" width="130"></a>
+        </span>
+       
 </div>
