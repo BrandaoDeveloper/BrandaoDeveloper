@@ -28,7 +28,7 @@ However, I am in a career transition and I am studying to qualify and thus be co
 <h2><strong>Contact</strong></h2>
     <div>      
         <span>
-            <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BikKlinSmSN2jtj%2FCwMj%2FEg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &ensp;</span>
+            <a href="https://www.linkedin.com/in/leonardo-brand%C3%A3o-a79a8a170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &ensp;</span>
         <span>
             <a href = "mailto:brandao.developerweb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>   &ensp;</span>
         <span>
