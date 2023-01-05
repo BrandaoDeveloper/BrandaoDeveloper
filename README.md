@@ -1,4 +1,5 @@
-<h1><strong> Hi there, I'm Leonardo!</strong> </h1>
+<h1><strong> Hi there, I'm Leonardo!</strong> 
+<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" height="40"></h1>
 <p>A little about me:
 
 Nice to meet you, I'm Leonardo Brandão, I'm 21 years old and I currently work in the corporate environment, and I have a lot of knowledge of the logistics and supply chain sector.
